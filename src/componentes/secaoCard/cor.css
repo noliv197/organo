@@ -1,0 +1,43 @@
+.borda-programacao{
+    border: 2px solid #57C278;
+}
+.borda-frontend{
+    border: 2px solid #82CFFA;
+}
+.borda-datascience{
+    border: 2px solid #A6D157;
+}
+.borda-devops{
+    border: 2px solid #E06B69;
+}
+.borda-design{
+    border: 2px solid #DB6EBF;
+}
+.borda-mobile{
+    border: 2px solid #FFBA05;
+}
+.borda-gestao{
+    border: 2px solid #FF8A29;
+}
+
+.bkg-programacao{
+    background-color: #D9F7E9
+}
+.bkg-frontend{
+    background-color: #E8F8FF;
+}
+.bkg-datascience{
+    background-color: #F0F8E2;
+}
+.bkg-devops{
+    background-color: #FDE7E8;
+}
+.bkg-design{
+    background-color: #FAE9F5;
+}
+.bkg-mobile{
+    background-color: #FFF5D9;
+}
+.bkg-gestao{
+    background-color: #FFEEDF;
+}

@@ -1,0 +1,23 @@
+.rodape{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+/*     background-color: ; */
+    height: 200px;
+    background: url('../../../public/imagens/fundo.png') no-repeat, #6278F7;
+    background-size: cover;
+
+}
+
+.rodape div{
+    display: flex;
+}
+.rodape a{
+    margin: 0 1.5rem;
+}
+
+.rodape span{
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+}

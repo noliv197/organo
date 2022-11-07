@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.campo-selecao{
+    margin: 1rem 0;
+}
+.campo-selecao label{
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: .25rem;
+}
+.campo-selecao select{
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    padding: .75rem;
+    margin-bottom: 1.5rem;
+    width: 100%;
+}
+.campo-selecao option{
+    border: none;
+}

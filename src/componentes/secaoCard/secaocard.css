@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+.secao{
+    text-align: center;
+    padding: 1.5rem .5rem;
+}
+.secao h3{
+    font-weight: 400;
+    font-size: 32px;
+    font-family: 'Prata', serif;
+    margin: 0;
+}
+.secao hr{
+    width: 32px;
+}
+.secao .container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+
